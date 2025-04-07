@@ -1,0 +1,214 @@
+img{
+    position: relative;
+    top: 138px;
+    left: -10px;
+}
+
+.rectangulo{
+    background-color: rgb(53, 106, 203);
+    color:white;
+    position: relative;
+    top: -1042px;
+    left: -10px;
+    width: 1920px;
+    height: 150px;
+}
+
+.inicio{
+    position: relative;
+    top: 60px;
+    left: 300px;
+    font-family:"open sans",sans-serif;
+    font-size: 30px;
+}
+
+.quees{
+    position: relative;
+    top: -5px;
+    left: 500px;
+    font-family:"open sans",sans-serif;
+    font-size: 30px;
+}
+
+.escudo{
+    position: relative;
+    top: -110px;
+    left: 750px;
+}
+
+.entrega{
+    position: relative;
+    top: -216px;
+    left: 1270px;
+    font-family:"open sans",sans-serif;
+    font-size: 30px;
+}
+
+.boton{
+    font-family: "open sans"sans-serif;
+    font-size: 20px;
+    border-color: white;
+    position: relative;
+    top: -290px;
+    left: 1500px;
+    width: 200px;
+    height: 50px;
+    border-radius: 100px;
+}
+
+.rectangulo2{
+    background-color: white;
+    position: relative;
+    top: -950px;
+    width: 600px;
+    border-radius: 30px;
+}
+
+.titulo{
+    position: relative;
+    top: 10px;
+    left: 30px;
+}
+
+#opciones{
+    position: relative;
+    left: 30px;
+    width: 500px;
+    height: 30px;
+}
+
+#opciones{
+    opacity: 50%;
+}
+
+.titulo2{
+    position: relative;
+    top: -15px;
+    left: 30px;
+}
+
+.documento{
+    position: relative;
+    top: -25px;
+    left: 30px;
+    width: 493px;
+    height: 30px;
+}
+
+.titulo3{
+    position: relative;
+    top: -20px;
+    left: 30px;
+}
+
+.nombre{
+    position: relative;
+    top: -30px;
+    left: 30px;
+    width: 493px;
+    height: 30px;
+}
+
+.titulo4{
+    position: relative;
+    top: -25px;
+    left: 30px;
+}
+
+.apellido{
+    position: relative;
+    top: -35px;
+    left: 30px;
+    width: 493px;
+    height: 30px;
+}
+
+.titulo5{
+    position: relative;
+    top: -30px;
+    left: 30px;
+}
+
+.calendario{
+    position: relative;
+    top: -40px;
+    left: 30px;
+    width: 496px;
+    height: 30px;
+}
+
+.titulo6{
+    position: relative;
+    top: -30px;
+    left: 30px;
+}
+
+.telefono{
+    position: relative;
+    top: -40px;
+    left: 30px;
+    width: 493px;
+    height: 30px;
+}
+
+.boton2{
+    border-color: rgb(53, 106, 203);
+    background-color: rgb(53, 106, 203);
+    position: relative;
+    top: -10px;
+    left: 180px;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+.titul{
+    font-family: "open sans" sans-serif;
+    font-size: 50px;
+    position: relative;
+    top: -1450px;
+    left: 1150px;
+}
+
+.enunciado{
+    font-family: "open sans" sans-serif;
+    font-size: 30px;
+    width: 600px;
+    position: relative;
+    top: -1420px;
+    left: 1050px;
+}
+
+.boton3{
+    border-color: rgb(53, 106, 203);
+    background-color: rgb(53, 106, 203);
+    top: -100px;
+    left: 1px;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+.titul2{
+    position: relative;
+    top: -650px;
+    left: 600px;
+    font-size: 50px;
+    font-family:"open sans",sans-serif;
+}
+
+.enunciado2{
+    position: relative;
+    font-size: 30px;
+    font-family:"open sans",sans-serif;
+    width: 650px;
+    top: -600px;
+    left: 100px;
+}
+
+.dinero img{
+    position: relative;
+    top: -800px;
+    left: 800px;
+
+}
